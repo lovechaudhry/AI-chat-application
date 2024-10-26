@@ -1,0 +1,9 @@
+streamlit
+pdfplumber
+langchain
+openai
+huggingface_hub
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
